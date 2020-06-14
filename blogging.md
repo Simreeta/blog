@@ -1,5 +1,3 @@
-# blog
-This is a blogging system
 <!DOCTYPE html>
 <html lang="en">
 <head>
